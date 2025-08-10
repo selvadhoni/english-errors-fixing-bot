@@ -1,4 +1,4 @@
-from api.info import API_KEY, API_MODEL
+from info import API_KEY, API_MODEL
 import google.generativeai as genai
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
