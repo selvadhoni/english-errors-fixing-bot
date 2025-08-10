@@ -1,0 +1,2 @@
+API_MODEL="gemini-2.0-flash"
+API_KEY="AIzaSyBJdPMRR1PWXOM8eWL_D0JuVs1OvFbNaJE"
